@@ -17,3 +17,6 @@ Ao longo da minha trajetória, tenho contribuído com iniciativas que vão além
 Acredito que a tecnologia bem aplicada transforma não só sistemas, mas experiências e resultados. Por isso, estou sempre em busca de novos aprendizados, desafios e formas de contribuir para ambientes mais confiáveis.
 
 ---
+Languages and Tools
+<img width="779" height="48" alt="image" src="https://github.com/user-attachments/assets/69bff806-0a50-4d0e-b2aa-9013b4293eab" /> <img width="779" height="48" alt="image" src="https://github.com/user-attachments/assets/a43d97a9-747f-483e-9a22-a9e46d8ef7a6" />
+
